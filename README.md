@@ -1,2 +1,10 @@
 # fit-commit
-kilo yaş ve cinsiyet bilgisine göre spor programı öneren uygulama
+## Özellikler
+- Yaş ve kilo bilgisine göre öneri algoritması
+- Kullanıcı dostu arayüz
+- Genişletilebilir egzersiz veritabanı
+- Basit ve modüler kod yapısı
+
+## Kullanım
+```bash
+python src/main.py
