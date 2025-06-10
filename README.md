@@ -1,10 +1,22 @@
 # fit-commit
+Bu proje, kullanıcının yaş ve kilosuna göre ona uygun fitness hareketleri önermektedir.
+
 ## Özellikler
-- Yaş ve kilo bilgisine göre öneri algoritması
-- Kullanıcı dostu arayüz
-- Genişletilebilir egzersiz veritabanı
-- Basit ve modüler kod yapısı
+- Yaş ve kilo verisi alır
+- Uygun egzersiz önerileri sunar
+- Python ile yazılmıştır
 
 ## Kullanım
-```bash
-python src/main.py
+
+
+## Gereksinimler
+- Python 3.x
+
+## Proje Yönetimi
+- Jira (Kanban) ile görev takibi yapılmaktadır
+- GitHub ile versiyon kontrolü sağlanmaktadır
+
+## Yapılacaklar
+- [ ] Kullanıcı verisi alımı
+- [ ] Egzersiz öneri algoritması
+- [ ] Testler
